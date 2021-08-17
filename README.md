@@ -1,0 +1,1 @@
+Função para transformar números inteiros em binários.
